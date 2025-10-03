@@ -14,6 +14,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdinajjar" height="30" width="40" />
 </a>
 </p>
+<p>Email: najjarmahdi23@gmail.com</p>
 
 ---
 
@@ -72,8 +73,6 @@
 - 🔍 [**Bloom Filter & Count-Min Sketch**](#) – Probabilistic data structures for large-scale string storage  
 
 ---
-
-<h3 align="left">Badges (for flair):</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
