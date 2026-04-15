@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahdi Najjar</h1>
-<h3 align="center">An aspiring Software Engineer from UCSD 🚀</h3>
+<h3 align="center">Software Engineer from UCSD</h3>
 
 <p align="center">
   🎓 CS Student @ UC San Diego | 💻 Passionate about systems, algorithms, and full-stack development <br>
-  🏋️‍♂️ Outside of coding: lifting, swimming, and photography 📸
 </p>
 
 ---
