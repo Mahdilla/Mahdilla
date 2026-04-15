@@ -46,29 +46,3 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
 </p>
 
-**Tools & OS**  
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-</p>
-
-**ML / Data Science**  
-<p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">Featured Projects:</h3>
-
-- 🖥️ [**Pioneer Shell**](#) – A custom Linux shell in C with job control and piping  
-- 📦 [**Huffman Compression Tool**](#) – File compressor using Huffman coding & BWT in C++  
-- 🍳 [**Recipe Finder App**](#) – Minimalist React + Node.js app that finds recipes from ingredients  
-- 🔍 [**Bloom Filter & Count-Min Sketch**](#) – Probabilistic data structures for large-scale string storage  
-
----
